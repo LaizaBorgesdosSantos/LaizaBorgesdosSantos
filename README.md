@@ -18,7 +18,7 @@ e o portifólio de arquitetura aqui: **https://heyzine.com/flip-book/c63a707c6b.
 
 - **Dados:** Python, SQL, Power BI e QGIS (intermediário)
 - **Desenvolvimento:** JavaScript, C# e HTML (básico)
-- **IA e automação:** IA generativa, prompt engineering, vibe coding e automação
+- **IA e automação:** IA generativa, prompt engineering e automação
 - **Design:** Figma e Adobe
 
 ## Contato
