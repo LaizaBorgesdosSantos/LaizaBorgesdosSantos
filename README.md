@@ -1,4 +1,4 @@
-# Laiza Borges dos Santos
+# Laiza Borges dos Santos ☀️
 
 Estudante de Análise e Desenvolvimento de Sistemas (FIT) e de Arquitetura e Urbanismo (USP), em São Paulo. Estagiária de Análise de Dados na FutureBrand · Timelens.
 
