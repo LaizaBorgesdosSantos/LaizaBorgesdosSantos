@@ -2,13 +2,17 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (FIT) e de Arquitetura e Urbanismo (USP), em São Paulo. Estagiária de Análise de Dados na FutureBrand · Timelens.
 
+FutureBrand: https://www.futurebrand.com/culture/s%C3%A3o-paulo
+
+Timelens: https://www.timelens.com.br/
+
 Analiso dados de mídia e uso IA generativa e automação para transformar dados em insights e reduzir trabalho manual.
 
 ## Portfólio
 
 Meus projetos e meu currículo estão aqui: **https://laizaborgesdossantos.github.io/portfolio-laiza.borges/**
 
-e o portifólio de arquitetura aqui: **https://heyzine.com/flip-book/c63a707c6b.html#page/1**
+e o portifólio de arquitetura e urbanismo aqui: *https://heyzine.com/flip-book/c63a707c6b.html#page/1*
 
 - Painel de KPIs de mídia
 - Gerador de relatório de campanhas
