@@ -7,6 +7,7 @@ Analiso dados de mídia e uso IA generativa e automação para transformar dados
 ## Portfólio
 
 Meus projetos e meu currículo estão aqui: **https://laizaborgesdossantos.github.io/portfolio-laiza.borges/**
+e os de arquitetura aqui: **https://heyzine.com/flip-book/c63a707c6b.html#page/1**
 
 - Painel de KPIs de mídia
 - Gerador de relatório de campanhas
